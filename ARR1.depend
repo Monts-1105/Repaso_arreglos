@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\od419\documents\arreglos\arr1\main.cpp
+	<iostream>
+
+1699023704 source:c:\users\od419\documents\arreglos\arr1\arreglo 1.c
+	<stdio.h>
+	<stdlib.h>
+
